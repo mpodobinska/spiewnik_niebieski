@@ -15,3 +15,10 @@
 8. koniec! teraz tylko wystarczy poczekać aż przejrzę zmiany i dodam je do głównej wersji.
 
 jeśli pominiecie kroki od 6. do końca to może się okazać, że nie będę wiedzieć o Waszych zmianach. czasem będę przeglądać wszystkie zmiany i pytać czy te nie dodane też są aktualne, ale im więcej zmian, tym będzie ciężej, więc wygodniej będzie dla wszystkich jeśli będziemy trzymać się tych 8 punktów.
+
+# format nagłówka
+
+* Nazwa Zespołu / sł. i muz. Adam Kowalski
+* Nazwa Zespołu / sł. Adam Kowalski, muz. Krzysztof Nowak
+* Nazwa Zespołu
+* sł. Adam Kowalski, muz. Krzysztof Nowak
